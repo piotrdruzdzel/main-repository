@@ -15,6 +15,6 @@ generator_3 = generate_numbers(new_new_numbers)
 for number in generator_1:
         print(number)
 
-print(f"Generator 3: {type(generator_3)}")
+print(f"Generator 2: {type(generator_2)}")
 
 print("\nKoniec")
