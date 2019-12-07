@@ -17,4 +17,7 @@ for number in generator_1:
 
 print(f"Generator 2: {type(generator_2)}")
 
+print("Printowanie1")
+
 print("\nKoniec")
+
